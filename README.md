@@ -1,4 +1,4 @@
 # RIYADEMO
 This is my first git repository.
 <br>
-Author -  Riya kumari the
+Author - The Riya kumari 
